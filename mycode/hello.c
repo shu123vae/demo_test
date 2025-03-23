@@ -5,5 +5,7 @@ using namespace std;
 
 int main(int argc,char* argv[])
 {
-    printf("hello github!");
+    printf("hello github!\n");
+
+    printf("branch 1\n");
 }
